@@ -1,0 +1,11 @@
+target/
+Reports/
+global.json
+.project
+.classpath
+.idea/
+.settings/
+.factorypath
+.idea/*
+Reports/*
+debug.log
